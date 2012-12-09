@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+    text-align: center;
+}
+
+#wrapper {
+    display: block;
+    width:90%;
+    margin:0px auto;
+}
+
+#header {
+}
+
+#content {
+    width: 75%;
+    float: left;
+}
+
+#sidebar {
+    width: 23%;
+    float: right;
+}
+
+#delimiter {
+    clear: both;
+}
+
+#footer {
+}
+
+.title {
+    font-size: 11pt;
+    font-family: arial;
+    font-weight: bold;
+}
+
